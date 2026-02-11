@@ -1,4 +1,4 @@
-# Bookmarklet – Decodificador de Ordem + Destaque de Alternativas
+# Bookmarklet – Decodificador de Ordem + Destaque de Alternativas para ALURA
 
 Bookmarklet em **JavaScript puro** que adiciona duas funcionalidades úteis diretamente no navegador, sem extensões:
 
